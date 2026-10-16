@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "data": {
+        "articleID": 1,
+        "articleCreatedTime": "一天前",
+        "articleReads": 347,
+        "author": {
+            "name": "oyishyi",
+            "desc": "黎明和萤火虫",
+            "avatar": "../img/homepage.png",
+            "likes": 41,
+            "reads": 3572
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "short_name": "拾分",
+  "name": "拾分 · 技术阅读",
+  "icons": [
+    {
+      "src": "shifen-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2458e5",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "data": [
+        {
+            "type": "article",
+            "id": 1,
+            "title": "前端学习笔记（二十二）--styled component, immutable.js",
+            "desc": "开始仿某个网站。记录一下过程中的一些思考或者遇到的坑。 1. styled component 由于 css 是全局作用的，经常会有 class 名字冲突，全局污染等情况出...",
+            "titlePicUrl": "../img/homepage.png",
+            "likes": 1,
+            "comments": 2
+        },
+        {
+            "type": "followTopic",
+            "id": 2,
+            "targetName": "像素画",
+            "targetImg": "../img/pixel-art-topic.png"
+        }
+    ]
+}

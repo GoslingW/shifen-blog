@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "data": {
+      "created": [
+          {
+              "id": 1,
+              "title": "默认收藏夹",
+              "creator": "oyishyi"
+          },
+          {
+              "id": 10004,
+              "title": "那是谁，是谁，是谁？",
+              "creator": "oyishyi"
+          }
+      ],
+      "following": [
+          {
+              "id": 23,
+              "title": "翻转电台",
+              "creator": "李厚辰"
+          },
+          {
+              "id": "548",
+              "title": "花と水飴、最終電車",
+              "creator": "n-buna"
+          }
+      ] 
+  } 
+}
