@@ -1,0 +1,1 @@
+export const CHANGE_SHOW_BACK_TO_TOP_BTN = "ShortcutBtn/change show back to top button"
